@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 this is 2rd branch
 this is newbranch
+=======
+this is 3rd branch
+this is sathish
+>>>>>>> sathish
